@@ -11,7 +11,7 @@ RTOS concepts such as:
 -------------------------------------------------------------------------------------------------
 Project Specification 
 -------------------------------------------------------------------------------------------------
-The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT
+The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT 
 Embedded.
 Four tasks communicate via a queue of fixed size as described below:
 There are three sender tasks. Two has same priority and one has a higher priority. Each sender task sleeps
